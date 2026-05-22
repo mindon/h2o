@@ -1,0 +1,14 @@
+.{
+    .name = .h2o,
+    .version = "0.5.0",
+    .fingerprint = 0x89f86b3248f6a91f,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+    },
+}
